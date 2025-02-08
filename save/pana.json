@@ -1,0 +1,417 @@
+{
+    "next_id": 3,
+    "signals": {
+        "1": [
+            {
+                "tick": 943595742,
+                "level": "LOW"
+            },
+            {
+                "tick": 943599272,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943601007,
+                "level": "LOW"
+            },
+            {
+                "tick": 943601472,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943601892,
+                "level": "LOW"
+            },
+            {
+                "tick": 943602352,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943603637,
+                "level": "LOW"
+            },
+            {
+                "tick": 943604102,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943604522,
+                "level": "LOW"
+            },
+            {
+                "tick": 943604987,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943605407,
+                "level": "LOW"
+            },
+            {
+                "tick": 943605867,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943606292,
+                "level": "LOW"
+            },
+            {
+                "tick": 943606752,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943607172,
+                "level": "LOW"
+            },
+            {
+                "tick": 943607637,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943608057,
+                "level": "LOW"
+            },
+            {
+                "tick": 943608522,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943608942,
+                "level": "LOW"
+            },
+            {
+                "tick": 943609402,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943609822,
+                "level": "LOW"
+            },
+            {
+                "tick": 943610282,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943610707,
+                "level": "LOW"
+            },
+            {
+                "tick": 943611167,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943611592,
+                "level": "LOW"
+            },
+            {
+                "tick": 943612052,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943612472,
+                "level": "LOW"
+            },
+            {
+                "tick": 943612937,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943613357,
+                "level": "LOW"
+            },
+            {
+                "tick": 943613822,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943615102,
+                "level": "LOW"
+            },
+            {
+                "tick": 943615567,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943615987,
+                "level": "LOW"
+            },
+            {
+                "tick": 943616452,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943616872,
+                "level": "LOW"
+            },
+            {
+                "tick": 943617332,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943617757,
+                "level": "LOW"
+            },
+            {
+                "tick": 943618217,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943618637,
+                "level": "LOW"
+            },
+            {
+                "tick": 943619097,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943619522,
+                "level": "LOW"
+            },
+            {
+                "tick": 943619982,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943620407,
+                "level": "LOW"
+            },
+            {
+                "tick": 943620867,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943622152,
+                "level": "LOW"
+            },
+            {
+                "tick": 943622617,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943623902,
+                "level": "LOW"
+            },
+            {
+                "tick": 943624367,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943624787,
+                "level": "LOW"
+            },
+            {
+                "tick": 943625252,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943626532,
+                "level": "LOW"
+            },
+            {
+                "tick": 943626997,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943627422,
+                "level": "LOW"
+            },
+            {
+                "tick": 943627882,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943628302,
+                "level": "LOW"
+            },
+            {
+                "tick": 943628762,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943629187,
+                "level": "LOW"
+            },
+            {
+                "tick": 943629652,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943630072,
+                "level": "LOW"
+            },
+            {
+                "tick": 943630532,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943631817,
+                "level": "LOW"
+            },
+            {
+                "tick": 943632282,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943632702,
+                "level": "LOW"
+            },
+            {
+                "tick": 943633162,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943633587,
+                "level": "LOW"
+            },
+            {
+                "tick": 943634047,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943634467,
+                "level": "LOW"
+            },
+            {
+                "tick": 943634932,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943636217,
+                "level": "LOW"
+            },
+            {
+                "tick": 943636682,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943637097,
+                "level": "LOW"
+            },
+            {
+                "tick": 943637562,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943637982,
+                "level": "LOW"
+            },
+            {
+                "tick": 943638447,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943638867,
+                "level": "LOW"
+            },
+            {
+                "tick": 943639327,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943640612,
+                "level": "LOW"
+            },
+            {
+                "tick": 943641082,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943641497,
+                "level": "LOW"
+            },
+            {
+                "tick": 943641962,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943642382,
+                "level": "LOW"
+            },
+            {
+                "tick": 943642847,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943643267,
+                "level": "LOW"
+            },
+            {
+                "tick": 943643732,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943645012,
+                "level": "LOW"
+            },
+            {
+                "tick": 943645477,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943645897,
+                "level": "LOW"
+            },
+            {
+                "tick": 943646357,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943646782,
+                "level": "LOW"
+            },
+            {
+                "tick": 943647242,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943647662,
+                "level": "LOW"
+            },
+            {
+                "tick": 943648127,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943649412,
+                "level": "LOW"
+            },
+            {
+                "tick": 943649877,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943651162,
+                "level": "LOW"
+            },
+            {
+                "tick": 943651627,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943652047,
+                "level": "LOW"
+            },
+            {
+                "tick": 943652512,
+                "level": "HIGH"
+            },
+            {
+                "tick": 943653797,
+                "level": "LOW"
+            },
+            {
+                "tick": 943654262,
+                "level": "HIGH"
+            }
+        ],
+        "2": [
+            {
+                "tick": 946824030,
+                "level": "LOW"
+            },
+            {
+                "tick": 946824340,
+                "level": "HIGH"
+            }
+        ]
+    }
+}
