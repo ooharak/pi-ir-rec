@@ -20,7 +20,7 @@ def do_assert(entry, kadenkyo, level, desc):
   if entry['kadenkyo']==kadenkyo and entry['level']==level:
     pass
   else:
-    raise f'format error: {desc}: expected: {kadenkyo},{level}; actual: {json.dumps(entry)}'
+    raise Exception(f'format error: {desc}: expected: {kadenkyo},{level}; actual: {json.dumps(entry)}')
 
 
 def parse_bits(gen, length, desc):
@@ -31,7 +31,7 @@ def parse_bits(gen, length, desc):
     kadenkyo = entry['kadenkyo']
     level = entry['level']
     if kadenkyo not in [1,3] or level != 'LOW':
-      raise f'format error: {desc} bit #{n}: actual: {json.dumps(entry)}'
+      raise Exception(f'format error: {desc} bit #{n}: actual: {json.dumps(entry)}')
     value = (value >> 1) | (0x80 if kadenkyo == 3 else 0)
   return value
 
