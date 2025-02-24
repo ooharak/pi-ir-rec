@@ -1,0 +1,295 @@
+{
+    "next_id": 2,
+    "signals": {
+        "1": [
+            {
+                "tick": 1579477688,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579486778,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579491213,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579491828,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579492318,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579492938,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579493423,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579494038,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579494533,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579495143,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579495633,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579496248,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579496773,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579497353,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579497848,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579498463,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579500083,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579500698,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579501188,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579501803,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579503423,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579504038,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579505663,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579506278,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579507893,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579508513,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579510133,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579510748,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579512368,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579512983,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579514608,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579515223,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579515713,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579516328,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579517948,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579518563,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579520183,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579520798,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579522423,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579523038,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579523523,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579524143,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579525798,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579526378,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579527998,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579528613,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579529103,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579529718,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579530213,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579530823,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579531313,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579531928,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579532418,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579533033,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579533523,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579534138,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579535763,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579536378,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579536868,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579537483,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579537973,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579538588,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579540208,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579540823,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579542443,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579543058,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579544713,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579545298,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579585703,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579594763,
+                "level": "HIGH"
+            },
+            {
+                "tick": 1579596943,
+                "level": "LOW"
+            },
+            {
+                "tick": 1579597553,
+                "level": "HIGH"
+            }
+        ]
+    }
+}

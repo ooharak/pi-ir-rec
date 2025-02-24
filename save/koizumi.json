@@ -1,0 +1,279 @@
+{
+    "next_id": 2,
+    "signals": {
+        "1": [
+            {
+                "tick": 3351148048,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351157053,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351161523,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351162103,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351162643,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351163193,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351163764,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351164318,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351164883,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351165433,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351166004,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351166558,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351167123,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351167704,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351168244,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351168828,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351169368,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351169913,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351171608,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351172188,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351172728,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351173278,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351174968,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351175524,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351177213,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351177768,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351179458,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351180008,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351180583,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351181128,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351182824,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351183398,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351185068,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351185643,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351186184,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351186734,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351188423,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351189004,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351190668,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351191219,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351192908,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351193463,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351195153,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351195708,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351196274,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351196858,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351197393,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351197948,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351198523,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351199068,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351199638,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351200188,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351200763,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351201313,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351201878,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351202459,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351203003,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351203548,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351204119,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351204693,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351206358,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351206913,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351208608,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351209158,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351210853,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351211428,
+                "level": "HIGH"
+            },
+            {
+                "tick": 3351213093,
+                "level": "LOW"
+            },
+            {
+                "tick": 3351213643,
+                "level": "HIGH"
+            }
+        ]
+    }
+}

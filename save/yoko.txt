@@ -1,0 +1,17 @@
+{"duration": 510, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 9300, "kadenkyo": 22, "nec": 17, "level": "LOW"}
+{"duration": 380, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 30130, "kadenkyo": 71, "nec": 54, "level": "LOW"}
+{"duration": 330, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 701, "kadenkyo": 2, "nec": 1, "level": "LOW"}
+{"duration": 339, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 9996, "kadenkyo": 24, "nec": 18, "level": "LOW"}
+{"duration": 329, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 4555, "kadenkyo": 11, "nec": 8, "level": "LOW"}
+{"duration": 425, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 941, "kadenkyo": 2, "nec": 2, "level": "LOW"}
+{"duration": 314, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 9330, "kadenkyo": 22, "nec": 17, "level": "LOW"}
+{"duration": 395, "kadenkyo": 1, "nec": 1, "level": "HIGH"}
+{"duration": 5770, "kadenkyo": 14, "nec": 10, "level": "LOW"}
+{"duration": 911, "kadenkyo": 2, "nec": 2, "level": "HIGH"}
